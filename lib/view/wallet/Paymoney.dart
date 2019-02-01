@@ -1,0 +1,32 @@
+class Paymoney {
+  static List<Map> payDatas = [{
+    'paymoney':'10',
+    'tomeney':'10',
+    'isClick':false
+  },
+  {
+    'paymoney':'20',
+    'tomeney':'21',
+    'isClick':false
+  },
+  {
+    'paymoney':'50',
+    'tomeney':'52',
+    'isClick':false
+  },
+  {
+    'paymoney':'80',
+    'tomeney':'85',
+    'isClick':false
+  },
+  {
+    'paymoney':'100',
+    'tomeney':'110',
+    'isClick':false
+  },
+  {
+    'paymoney':'200',
+    'tomeney':'230',
+    'isClick':false,
+  },];
+}
